@@ -8,7 +8,7 @@ intents = discord.Intents.default()
 intents.typing = False
 intents.presences = False
 
-TOKEN = "MTA0OTk2ODExNDcxNDAzODM2Mw.GHObeg.-13DBfQ4maAumZYK1TLlNpJvc7d--P2aHbCyWI"
+TOKEN = "MTA0OTk2ODExNDcxNDAzODM2Mw.GNSRkI.lZA7m02W26Cw1u54-yHWMQXrjN4R83ObBFDvew"
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
